@@ -95,9 +95,9 @@ Press ESC to exit the display window.
 
 ## 👩‍💻 Author
 
-Suchitra Mary
-MSc Data Science
-Interested in Computer Vision & AI
+### Suchitra Mary
+### MSc Data Science
+### Interested in Computer Vision & AI
 
 ---
 
