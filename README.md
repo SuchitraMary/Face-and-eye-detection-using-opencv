@@ -6,6 +6,7 @@ It detects faces and eyes from an image and draws bounding boxes around them.
 ---
 
 ## 📌 Project Structure
+```
 Face-Eye-Detection/
 │
 ├── face_detection.py
@@ -13,7 +14,7 @@ Face-Eye-Detection/
 ├── haarcascade_frontalface_default.xml
 ├── haarcascade_eye.xml
 └── README.md
-
+```
 ---
 
 ## 🛠️ Technologies Used
