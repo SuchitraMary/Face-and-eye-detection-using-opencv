@@ -70,7 +70,7 @@ It works using:
 
 4.Cascade filtering for fast detection
 
---
+---
 
 
 ## 📸 Output
@@ -79,7 +79,7 @@ The program draws a red bounding box around detected faces or eyes.
 
 Press ESC to exit the display window.
 
---
+---
 
 ## 🚀 Future Improvements
 
@@ -91,7 +91,7 @@ Press ESC to exit the display window.
 
 - Deploy as a web application
 
---
+---
 
 ## 👩‍💻 Author
 
@@ -99,5 +99,5 @@ Suchitra Mary
 MSc Data Science
 Interested in Computer Vision & AI
 
---
+---
 
